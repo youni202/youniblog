@@ -15,7 +15,7 @@ Contains basic configuration to get you a site with:
 - Site wide search.
 
 Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
+한국어
 ---
 
 ## Troubleshooting
